@@ -1,11 +1,10 @@
 /* The for principles of "this";
 * in your own words. explain the four principle for the "this" keyword below.
 *
-* 1. 
-* 2. 
-* 3. 
-* 4. 
-*
+* 1. Window/Global Object Binding - In the gobal scope "this" will be the window/console object
+* 2. Implicit Binding - 
+* 3. New Binding -  
+* 4. Explicit Binding - 
 * write out a code example of each explanation above
 */
 
