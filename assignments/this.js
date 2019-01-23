@@ -11,6 +11,12 @@
 // Principle 1
 
 // code example for Window Binding
+function book(title) {
+    console.log(this);
+    return title;
+  }
+  
+  book("the secret");
 
 // Principle 2
 
